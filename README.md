@@ -6,7 +6,7 @@ Information for businesses looking to accept Bitcoin as payment.
 
 ### Businesses with 1-2 employees
 
-- [Wallet of Satoshi](https://www.walletofsatoshi.com)
+- [Wallet of Satoshi](wos.md)
 - [Breez](https://breez.technology)
 
 ### Businesses with multiple staff
@@ -31,6 +31,7 @@ Information for businesses looking to accept Bitcoin as payment.
 - [BTCPay Server](https://btcpayserver.org)
 - [LNCal.com](https://lncal.com)
 - [LNbits Satspay](https://github.com/lnbits/satspay)
+- [Swiss Bitcoin Pay](SwissBitcoinPay.md)
 
 ### Comparison Table
 
